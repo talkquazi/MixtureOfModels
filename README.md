@@ -26,6 +26,22 @@ Mixture of Models (MOM) leverages multiple AI models, each representing a differ
 - **Interactive Interface**: Provides a user-friendly interface powered by Gradio.
 - **GPU Monitoring**: Monitors GPU temperature and cools down if necessary to prevent overheating. (Defaults to 75*C or 167*F. Temps are in C)
 
+
+![Interface Screenshot 1](screenshots/Screenshot.png)
+![Interface Screenshot 2](screenshots/Screenshot2.png)
+![Interface Screenshot 3](screenshots/Screenshot3.png)
+
+## Minimum System Requirements
+- 32GB of system Ram (Not GPU Ram)
+- A Modern CPU
+- GPU (Not required) an RTX 2060 or greater will speed up inference
+- 100GB free space (before installing all models)
+
+## Recommended System Requirements
+- 64GB of system ram
+- A modern Nvidia GPU at least 16gb Ram
+- NVME SSD or greater
+
 ## Installation
 ### Prerequisites
 - Python 3.7 or higher
