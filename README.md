@@ -104,7 +104,7 @@ python app.py
 
 2. **Access the Interface**
 
-- [Open your browser and navigate to `http://localhost:7860`](http://localhost:7860)
+- Open your browser and navigate to [`http://localhost:7860`](http://localhost:7860)
 - The interface will display a chat window with options for:
 - Text input
 - Image upload
