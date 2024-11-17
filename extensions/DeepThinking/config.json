@@ -1,0 +1,7 @@
+{
+    "name": "Deep Thinking",
+    "version": "1.0",
+    "description": "Enables multi-bot voting and deep thinking processing for complex queries",
+    "author": "Mixture Of Models",
+    "requires": ["openai", "asyncio"]
+}
