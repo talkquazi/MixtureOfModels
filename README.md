@@ -1,7 +1,7 @@
 # Mixture of Models (MOM)
 A collective thought experiment with a gradio interface, vision capabilities, and deep thought.
 
-Welcome to the **Mixture of Models (MOM)** - a collective AI brain that unifies multiple cognitive functions via a mixture of models. This project demonstrates how different AI models can work together, each contributing their unique perspective, to generate cohesive and intelligent responses.
+Welcome to the **Mixture of Models (MOM)** experiment - a collective AI brain that unifies multiple cognitive functions via a mixture of models. This project demonstrates how different AI models can work together, each contributing their unique perspective, to generate cohesive and intelligent responses.
 
 ![Mixture of Models Interface](MixtureOfModels.gif)
 
