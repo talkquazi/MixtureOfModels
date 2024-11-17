@@ -1,5 +1,5 @@
 # Mixture of Models (MOM)
-A collective thought experiment with a gradio interface, vision capabilities, and deep thought.
+A collective thought experiment with a gradio interface, vision capabilities, and deep thought. That runs on your local machine privately!
 
 Welcome to the **Mixture of Models (MOM)** experiment - a collective AI brain that unifies multiple cognitive functions via a mixture of models. This project demonstrates how different AI models can work together, each contributing their unique perspective, to generate cohesive and intelligent responses.
 
@@ -26,7 +26,6 @@ Mixture of Models (MOM) leverages multiple AI models, each representing a differ
 - **Interactive Interface**: Provides a user-friendly interface powered by Gradio.
 - **GPU Monitoring**: Monitors GPU temperature and cools down if necessary to prevent overheating. (Defaults to 75*C or 167*F. Temps are in C)
 
-
 ![Interface Screenshot 1](screenshots/Screenshot.png)
 ![Interface Screenshot 2](screenshots/Screenshot2.png)
 ![Interface Screenshot 3](screenshots/Screenshot3.png)
@@ -41,6 +40,8 @@ Mixture of Models (MOM) leverages multiple AI models, each representing a differ
 - 64GB of system ram
 - A modern Nvidia GPU at least 16gb Ram
 - NVME SSD or greater
+
+Mixture Of Models is designed to run locally on your system. It is not recommended to run this script in a production environment. You do not need an OpenAI key to run this as all inference happens on your local machine or chosen OpenAI compatible ollama interface.
 
 ## Installation
 ### Prerequisites
